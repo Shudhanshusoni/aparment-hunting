@@ -1,0 +1,2 @@
+In this problem of Apartment Hunting 
+first create a hasMap and store value of req as 
